@@ -66,6 +66,6 @@ EN 12V | GPIO33 | Output
 
 ## Media
 
-<a href="https://www.instagram.com/nas.craftsman/"><img src="Docs/IG" width="100px"></a>
-<a href="www.linkedin.com/in/nasib-fahim-fernandez"><img src="Docs/LIN" width="100px"></a>
+<a href="https://www.instagram.com/nas.craftsman/"><img src="Docs/IG.png" width="100px"></a>
+<a href="www.linkedin.com/in/nasib-fahim-fernandez"><img src="Docs/LIN.png" width="100px"></a>
 
