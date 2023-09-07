@@ -56,7 +56,7 @@ EN 12V | GPIO33 | Output
 
 ## Board overview C3T (Battery connections)
 
-<img src="Docs/Controller_diagram_bottom.JPG" width="220px"></a>
+<img src="Docs/Controller_diagram_bottom.JPG" width="270px"></a>
 <img src="Docs/Controller_diagram_front.JPG" width="300px"></a>
 
 ## Flashing firmware to the ESP32 
