@@ -5,9 +5,10 @@
 
 OpenNixie was born with the aim of creating an open project development platform around all types of Nixie Tubes. A platform that condenses the future with the past. The IoT technology with the famous plasma tubes in a miniature and modular design.
 
-OpenNixie is a BLE and Wifi platform for different applications. It was originally designed as a watch with an Internet connection, but later became a universal platform with many applications. This system is based on the ESP32-WROVER-IE Module, includes a 170V power phase and can be powered and programmed directly through the USB-C connector.
+OpenNixie is a BLE and Wifi platform for different applications. It was originally designed as a RTC with an Internet connection, but later became a universal platform with many applications. This system is based on the ESP32-WROVER-IE Module, includes a 170V power stage and can be powered and programmed directly through the USB-C connector.
 
 Some of the features that the OpenNixie platform includes are:
+
 - Dimensions are only 30x60mm
 - Wifi and BLE connected
 - Modular design: it can be used for different Nixie tubes shapes and applications
