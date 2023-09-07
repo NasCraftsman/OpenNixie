@@ -33,42 +33,38 @@ OpenNixie uses the USB-C port to power the plasma tubes. For this, two power sta
 
 ## GPIOs
 
-Function | GPIO C3T | GPIO C3 | Mode
--------- | -------- | -------- | --------
-LED | GPIO6 | GPIO6 (CLK) + GPIO7 (SDI) | Output
-Latch* | GPIO3 | ** | Output
-Button | GPIO5 | GPIO5 | Input
-Charge Stat. | GPIO1  | ext. LED | Input
-Bat Voltage | GPIO4 | GPIO4 | Input
-Bat Voltage EN | -- | GPIO3 | Output
+Function | GPIO V2 | Mode
+-------- | -------- | --------
+SCK | GPIO2 | Output
+MOSI | GPIO4 | Output
+Button | GPIO15 | Input
+I2C_SDA | GPI18 | Output/Input
+I2C_SCL | GPI19 | Output
+LED G | GPIO21 | Output
+LED R | GPIO22 | Output
+LED B | GPIO23 | Output
+Logic EN | GPIO25 | Output
+ACC INT | GPIO26 | Input
+EN 170V | GPIO32 | Output
+EN 12V | GPIO33 | Output
 
-*Enabling the LDO can be done by pressing the button of the device or turning the latch high. In most use cases, the latch GPIO should be turned on as the first task of the Picoclick. Once the task is completed the device can be powered off by turning the latch off (e.g. pulling it low).
-
-**The Picoclick C3 doesn't need a latching GPIO because it uses the embedded flash's power supply pin as a reference. It can be depowered with putting the ESP32 in deepsleep. To reduce the power consumption of the ESP32 this function will disable the power of the embedded flash (`VDD_SPI`) which in result will depower the Picoclick itself. The deepsleep calling function is only necessary to pulling the `VDD_SPI` line low, not to use the deepsleep mode of the ESP32.
+* The RGB signals control the background color of the ambient LEDs under the Nixie tubes
+* The ACC INT signal is triggered by an event in the accelerometer
+* The I2C bus controls the accelerometer
+* To activate the Nixie tubes, the ignition sequence should be: EN12-ON EN170-OFF LE-ON
+* To deactivate Nixie tubes, the shutdown sequence should be: LE-OFF EN170-ON EN12-OFF
 
 ## Board overview C3T (Battery connections)
 
-<img src="Docs/Controller_diagram_bottom.jpg" width="500px"></a>
-<img src="Docs/Controller_diagram_front.jpg" width="500px"></a>
+<img src="Docs/Controller_diagram_bottom.JPG" width="300px"></a>
+<img src="Docs/Controller_diagram_front.JPG" width="300px"></a>
 
-## Flashing firmware to the ESP32 (C3T)
+## Flashing firmware to the ESP32 
 
-**- Press and hold the button during the complete flashing process! Otherwise the ESP32 will be loose power and the upload process will crash!**
-
-**- A battery or a power supply has to be applied to the battery pads (3.5v - 5.5v) in order to flash the device!**
-
-Except the above, the Picoclick behaves like a normal development board. No need to get the ESP32 into download mode or pressing any reset button.
-
-## Cases for the C3T
-
-Round design. Combined with two M2x8mm screws.
-
-<img src="docs/pc3t_case2.jpg" width="250px"></a>
+**- Press and hold BOOT button while press and release EN button, then release BOOT button to enter in BOOT mode**
+**- You can use the USB-C directly to programm the device**
 
 # FAQ
-
-## My Picoclick C3T is not shown on the device list when I plug it in the computer - what can I do?
-- Your Picoclick is well tested before shipping, so it is probably not broken. Make sure you have connected a decent power supply to the battery connections (3.5v - 5.5v). Battery polarity is shown above. The USB-C jack is only for charging the battery and to flash the ESP32 - not for powering the device.
 
 ## Media
 
