@@ -3,17 +3,16 @@
 <img src="Docs/_DSC1764.JPG" width="400px"></a>
 <img src="Docs/_DSC1766.JPG" width="400px"></a>
 
-OpenNixie was born with the aim of creating an open project development platform around all types of Nixie Tubes. A platform that condenses the future with the past. IoT technology with plasma tubes in a miniature and modular design.
+OpenNixie was born with the aim of creating an open project development platform around all types of Nixie Tubes. A platform that condenses the future with the past. The IoT technology with the famous plasma tubes in a miniature and modular design.
 
-OpenNixie is a BLE and Wifi platform for different applications. It was originally designed as a watch with an Internet connection, but later became a universal platform with many applications.
+OpenNixie is a BLE and Wifi platform for different applications. It was originally designed as a watch with an Internet connection, but later became a universal platform with many applications. This system is based on the ESP32-WROVER-IE Module, includes a 170V power phase and can be powered and programmed directly through the USB-C connector.
 
-After a while
-
-Here are some specs of the Picoclick C3T:
-- Dimensions are only 10.5x18mm
-- Ultra low standby current due to latching circuit (no sleep mode needed)
-- Single button & LED interface (WS2812 RGB LED)
-- USB Type-C for charging the battery and flashing the ESP32-C3
+Some of the features that the OpenNixie platform includes are:
+- Dimensions are only 30x60mm
+- Wifi and BLE connected
+- Modular design: it can be used for different Nixie tubes shapes and applications
+- USB Type-C for power and programming 
+- 1 general pourpose button for control the platform 
 
 <img src="Docs/Nixie_Gif_Animation.gif" width="400px"></a>
 <a href="https://www.tindie.com/stores/makermoekoe/?ref=offsite_badges&utm_source=sellers_makermoekoe&utm_medium=badges&utm_campaign=badge_large"><img src="https://d2ss6ovg47m0r5.cloudfront.net/badges/tindie-larges.png" alt="I sell on Tindie" width="200" height="104"></a>
