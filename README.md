@@ -56,13 +56,13 @@ EN 12V | GPIO33 | Output
 
 ## Board overview C3T (Battery connections)
 
-<img src="Docs/Controller_diagram_bottom.JPG" width="300px"></a>
+<img src="Docs/Controller_diagram_bottom.JPG" width="250px"></a>
 <img src="Docs/Controller_diagram_front.JPG" width="300px"></a>
 
 ## Flashing firmware to the ESP32 
 
-**- Press and hold BOOT button while press and release EN button, then release BOOT button to enter in BOOT mode**
-**- You can use the USB-C directly to programm the device**
+- Press and hold BOOT button while press and release EN button, then release BOOT button to enter in BOOT mode
+- You can use the USB-C directly to programm the device
 
 ## Media
 
