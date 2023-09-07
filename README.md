@@ -24,7 +24,12 @@ Some of the features that the OpenNixie platform includes are:
  
 OpenNixie has been designed as a modular platform. This means that the control PCB can be connected to any PCB with Nixie tubes, so the applications are unlimited. At the moment the V2 version has been tested with a base for 4 1N-12A Nixies with RGB LEDs and SPI expansion.
 
+<img src="Docs/_DSC1774.JPG" width="300px"></a>
+<img src="Docs/_DSC1775.JPG" width="300px"></a>
+
 ## Warning
+
+OpenNixie uses the USB-C port to power the plasma tubes. For this, two power stages are created, one 12V LV and another 170V HV. The HV stage is limited to 1A, so it could be dangerous depending on the power supply used.
 
 ## GPIOs
 
