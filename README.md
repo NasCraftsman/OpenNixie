@@ -1,7 +1,8 @@
 # OpenNixie 
 
-<img src="Docs/_DSC1764.JPG" width="400px"></a>
-<img src="Docs/_DSC1766.JPG" width="400px"></a>
+<img src="Docs/_DSC1764.JPG" width="300px"></a>
+<img src="Docs/_DSC1766.JPG" width="300px"></a>
+<img src="Docs/Nixie_Gif_Animation.gif" width="300px"></a>
 
 OpenNixie was born with the aim of creating an open project development platform around all types of Nixie Tubes. A platform that condenses the future with the past. The IoT technology with the famous plasma tubes in a miniature and modular design.
 
@@ -15,7 +16,6 @@ Some of the features that the OpenNixie platform includes are:
 - USB Type-C for power and programming 
 - 1 general pourpose button for control the platform 
 
-<img src="Docs/Nixie_Gif_Animation.gif" width="400px"></a>
 <a href="https://www.pcbway.com/project/shareproject/Open_IoT_Nixie_Platform_9b133654.html"><img src="https://www.pcbway.com/project/img/images/frompcbway-1220.png" alt="PCB from PCBWay" /></a>
 
 ## Multi Board Architecture 
