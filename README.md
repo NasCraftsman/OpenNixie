@@ -13,13 +13,17 @@ Some of the features that the OpenNixie platform includes are:
 - Dimensions are only 30x60mm
 - Wifi and BLE connected
 - Modular design: it can be used for different Nixie tubes shapes and applications
-- USB Type-C for power and programming 
-- 1 general pourpose button for control the platform 
+- USB Type-C for power and programming
+- 4 1N-12A + RGB lights as a default Nixie extension board 
+- 1 general pourpose button for control the platform
+  
 
 <a href="https://www.pcbway.com/project/shareproject/Open_IoT_Nixie_Platform_9b133654.html"><img src="https://www.pcbway.com/project/img/images/frompcbway-1220.png" alt="PCB from PCBWay" /></a>
 
-## Multi Board Architecture 
-holi2
+## Multi Board Architecture
+ 
+OpenNixie has been designed as a modular platform. This means that the control PCB can be connected to any PCB with Nixie tubes, so the applications are unlimited. At the moment the V2 version has been tested with a base for 4 1N-12A Nixies with RGB LEDs and SPI expansion.
+
 ## Warning
 
 ## GPIOs
