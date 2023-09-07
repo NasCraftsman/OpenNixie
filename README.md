@@ -16,7 +16,7 @@ Some of the features that the OpenNixie platform includes are:
 - 1 general pourpose button for control the platform 
 
 <img src="Docs/Nixie_Gif_Animation.gif" width="400px"></a>
-<a href="https://www.tindie.com/stores/makermoekoe/?ref=offsite_badges&utm_source=sellers_makermoekoe&utm_medium=badges&utm_campaign=badge_large"><img src="https://d2ss6ovg47m0r5.cloudfront.net/badges/tindie-larges.png" alt="I sell on Tindie" width="200" height="104"></a>
+<a href="https://www.pcbway.com/project/shareproject/Open_IoT_Nixie_Platform_9b133654.html"><img src="https://www.pcbway.com/project/img/images/frompcbway-1220.png" alt="PCB from PCBWay" /></a>
 
 ## Multi Board Architecture 
 holi2
