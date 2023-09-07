@@ -1,7 +1,7 @@
 # OpenNixie 
 
-<img src="Docs/_DSC1764.jpg" width="300px"></a>
-<img src="Docs/_DSC1766.jpg" width="300px"></a>
+<img src="Docs/_DSC1764.JPG" width="50%"></a>
+<img src="Docs/_DSC1766.JPG" width="50%"></a>
 
 The Picoclick C3 as well as its little brother (the C3T, T = tiny) are the successors of the well known [Picoclick](https://github.com/makermoekoe/Picoclick). The name is related to its new processor: the [ESP32-C3](https://www.espressif.com/sites/default/files/documentation/esp32-c3_datasheet_en.pdf) single core RISC-V 160MHz CPU.
 
