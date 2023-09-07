@@ -61,7 +61,7 @@ EN 12V | GPIO33 | Output
 
 ## Flashing firmware 
 
-- Press and hold BOOT button while press and release EN button, then release BOOT button to enter in BOOT mode
+- Press and hold BOOT button while press and release RESET button, then release BOOT button to enter in BOOT mode
 - You can use the USB-C directly to programm the device
 
 ## Media
