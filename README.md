@@ -1,8 +1,8 @@
 # OpenNixie 
 
-<img src="Docs/_DSC1764.JPG" width="300px"></a>
-<img src="Docs/_DSC1766.JPG" width="300px"></a>
-<img src="Docs/Nixie_Gif_Animation.gif" width="300px"></a>
+<img src="Docs/_DSC1764.JPG" width="250px"></a>
+<img src="Docs/_DSC1766.JPG" width="250px"></a>
+<img src="Docs/Nixie_Gif_Animation.gif" width="250px"></a>
 
 OpenNixie was born with the aim of creating an open project development platform around all types of Nixie Tubes. A platform that condenses the future with the past. The IoT technology with the famous plasma tubes in a miniature and modular design.
 
@@ -24,8 +24,8 @@ Some of the features that the OpenNixie platform includes are:
  
 OpenNixie has been designed as a modular platform. This means that the control PCB can be connected to any PCB with Nixie tubes, so the applications are unlimited. At the moment the V2 version has been tested with a base for 4 1N-12A Nixies with RGB LEDs and SPI expansion.
 
-<img src="Docs/_DSC1774.JPG" width="300px"></a>
-<img src="Docs/_DSC1775.JPG" width="300px"></a>
+<img src="Docs/_DSC1774.JPG" width="350px"></a>
+<img src="Docs/_DSC1775.JPG" width="350px"></a>
 
 ## Warning
 
@@ -56,8 +56,8 @@ EN 12V | GPIO33 | Output
 
 ## Board overview C3T (Battery connections)
 
-<img src="Docs/Controller_diagram_bottom.JPG" width="270px"></a>
-<img src="Docs/Controller_diagram_front.JPG" width="300px"></a>
+<img src="Docs/Controller_diagram_bottom.JPG" width="320px"></a>
+<img src="Docs/Controller_diagram_front.JPG" width="350px"></a>
 
 ## Flashing firmware to the ESP32 
 
@@ -66,6 +66,6 @@ EN 12V | GPIO33 | Output
 
 ## Media
 
-<a href="https://www.instagram.com/nas.craftsman/"><img src="Docs/IG" width="50px"></a>
-<a href="www.linkedin.com/in/nasib-fahim-fernandez"><img src="Docs/LIN" width="50px"></a>
+<a href="https://www.instagram.com/nas.craftsman/"><img src="Docs/IG" width="100px"></a>
+<a href="www.linkedin.com/in/nasib-fahim-fernandez"><img src="Docs/LIN" width="100px"></a>
 
