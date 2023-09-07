@@ -1,0 +1,132 @@
+*************************************************************
+FileName = nas-craftsman nixie BASE v1_1.PcbDoc
+ODB++ directory structure
+*************************************************************
+Generated File : F:\NASIB\INGENIERIA\PROYECTOS\Nixie project\V2\SQUARE BASE\Project Outputs for nas-craftsman nixie BASE v1\ODB\odb\matrix\matrix
+
+Generated File : F:\NASIB\INGENIERIA\PROYECTOS\Nixie project\V2\SQUARE BASE\Project Outputs for nas-craftsman nixie BASE v1\ODB\odb\steps\pcb\profile
+
+Generated File : F:\NASIB\INGENIERIA\PROYECTOS\Nixie project\V2\SQUARE BASE\Project Outputs for nas-craftsman nixie BASE v1\ODB\odb\steps\pcb\stephdr
+
+Generated File : F:\NASIB\INGENIERIA\PROYECTOS\Nixie project\V2\SQUARE BASE\Project Outputs for nas-craftsman nixie BASE v1\ODB\odb\steps\pcb\attrlist
+
+Generated File : F:\NASIB\INGENIERIA\PROYECTOS\Nixie project\V2\SQUARE BASE\Project Outputs for nas-craftsman nixie BASE v1\ODB\odb\steps\pcb\layers\mid2\features
+
+Generated File : F:\NASIB\INGENIERIA\PROYECTOS\Nixie project\V2\SQUARE BASE\Project Outputs for nas-craftsman nixie BASE v1\ODB\odb\steps\pcb\layers\mid2\attrlist
+
+Generated File : F:\NASIB\INGENIERIA\PROYECTOS\Nixie project\V2\SQUARE BASE\Project Outputs for nas-craftsman nixie BASE v1\ODB\odb\steps\pcb\layers\mid1\features
+
+Generated File : F:\NASIB\INGENIERIA\PROYECTOS\Nixie project\V2\SQUARE BASE\Project Outputs for nas-craftsman nixie BASE v1\ODB\odb\steps\pcb\layers\mid1\attrlist
+
+Generated File : F:\NASIB\INGENIERIA\PROYECTOS\Nixie project\V2\SQUARE BASE\Project Outputs for nas-craftsman nixie BASE v1\ODB\odb\steps\pcb\layers\keep-out_layer\features
+
+Generated File : F:\NASIB\INGENIERIA\PROYECTOS\Nixie project\V2\SQUARE BASE\Project Outputs for nas-craftsman nixie BASE v1\ODB\odb\steps\pcb\layers\keep-out_layer\attrlist
+
+Generated File : F:\NASIB\INGENIERIA\PROYECTOS\Nixie project\V2\SQUARE BASE\Project Outputs for nas-craftsman nixie BASE v1\ODB\odb\steps\pcb\layers\outline\features
+
+Generated File : F:\NASIB\INGENIERIA\PROYECTOS\Nixie project\V2\SQUARE BASE\Project Outputs for nas-craftsman nixie BASE v1\ODB\odb\steps\pcb\layers\outline\attrlist
+
+Generated File : F:\NASIB\INGENIERIA\PROYECTOS\Nixie project\V2\SQUARE BASE\Project Outputs for nas-craftsman nixie BASE v1\ODB\odb\steps\pcb\layers\gnd_plane\features
+
+Generated File : F:\NASIB\INGENIERIA\PROYECTOS\Nixie project\V2\SQUARE BASE\Project Outputs for nas-craftsman nixie BASE v1\ODB\odb\steps\pcb\layers\gnd_plane\attrlist
+
+Generated File : F:\NASIB\INGENIERIA\PROYECTOS\Nixie project\V2\SQUARE BASE\Project Outputs for nas-craftsman nixie BASE v1\ODB\odb\steps\pcb\layers\power_3v\features
+
+Generated File : F:\NASIB\INGENIERIA\PROYECTOS\Nixie project\V2\SQUARE BASE\Project Outputs for nas-craftsman nixie BASE v1\ODB\odb\steps\pcb\layers\power_3v\attrlist
+
+Generated File : F:\NASIB\INGENIERIA\PROYECTOS\Nixie project\V2\SQUARE BASE\Project Outputs for nas-craftsman nixie BASE v1\ODB\odb\steps\pcb\layers\top_paste\features
+
+Generated File : F:\NASIB\INGENIERIA\PROYECTOS\Nixie project\V2\SQUARE BASE\Project Outputs for nas-craftsman nixie BASE v1\ODB\odb\steps\pcb\layers\top_paste\attrlist
+
+Generated File : F:\NASIB\INGENIERIA\PROYECTOS\Nixie project\V2\SQUARE BASE\Project Outputs for nas-craftsman nixie BASE v1\ODB\odb\steps\pcb\layers\bottom_overlay\features
+
+Generated File : F:\NASIB\INGENIERIA\PROYECTOS\Nixie project\V2\SQUARE BASE\Project Outputs for nas-craftsman nixie BASE v1\ODB\odb\steps\pcb\layers\bottom_overlay\attrlist
+
+Generated File : F:\NASIB\INGENIERIA\PROYECTOS\Nixie project\V2\SQUARE BASE\Project Outputs for nas-craftsman nixie BASE v1\ODB\odb\steps\pcb\layers\top_solder\features
+
+Generated File : F:\NASIB\INGENIERIA\PROYECTOS\Nixie project\V2\SQUARE BASE\Project Outputs for nas-craftsman nixie BASE v1\ODB\odb\steps\pcb\layers\top_solder\attrlist
+
+Generated File : F:\NASIB\INGENIERIA\PROYECTOS\Nixie project\V2\SQUARE BASE\Project Outputs for nas-craftsman nixie BASE v1\ODB\odb\steps\pcb\layers\bottom_solder\features
+
+Generated File : F:\NASIB\INGENIERIA\PROYECTOS\Nixie project\V2\SQUARE BASE\Project Outputs for nas-craftsman nixie BASE v1\ODB\odb\steps\pcb\layers\bottom_solder\attrlist
+
+Generated File : F:\NASIB\INGENIERIA\PROYECTOS\Nixie project\V2\SQUARE BASE\Project Outputs for nas-craftsman nixie BASE v1\ODB\odb\steps\pcb\layers\bottom_paste\features
+
+Generated File : F:\NASIB\INGENIERIA\PROYECTOS\Nixie project\V2\SQUARE BASE\Project Outputs for nas-craftsman nixie BASE v1\ODB\odb\steps\pcb\layers\bottom_paste\attrlist
+
+Generated File : F:\NASIB\INGENIERIA\PROYECTOS\Nixie project\V2\SQUARE BASE\Project Outputs for nas-craftsman nixie BASE v1\ODB\odb\steps\pcb\layers\bottom_layer\features
+
+Generated File : F:\NASIB\INGENIERIA\PROYECTOS\Nixie project\V2\SQUARE BASE\Project Outputs for nas-craftsman nixie BASE v1\ODB\odb\steps\pcb\layers\bottom_layer\attrlist
+
+Generated File : F:\NASIB\INGENIERIA\PROYECTOS\Nixie project\V2\SQUARE BASE\Project Outputs for nas-craftsman nixie BASE v1\ODB\odb\steps\pcb\layers\top_layer\features
+
+Generated File : F:\NASIB\INGENIERIA\PROYECTOS\Nixie project\V2\SQUARE BASE\Project Outputs for nas-craftsman nixie BASE v1\ODB\odb\steps\pcb\layers\top_layer\attrlist
+
+Generated File : F:\NASIB\INGENIERIA\PROYECTOS\Nixie project\V2\SQUARE BASE\Project Outputs for nas-craftsman nixie BASE v1\ODB\odb\steps\pcb\layers\top_overlay\features
+
+Generated File : F:\NASIB\INGENIERIA\PROYECTOS\Nixie project\V2\SQUARE BASE\Project Outputs for nas-craftsman nixie BASE v1\ODB\odb\steps\pcb\layers\top_overlay\attrlist
+
+Generated File : F:\NASIB\INGENIERIA\PROYECTOS\Nixie project\V2\SQUARE BASE\Project Outputs for nas-craftsman nixie BASE v1\ODB\odb\steps\pcb\layers\drill\features
+
+Generated File : F:\NASIB\INGENIERIA\PROYECTOS\Nixie project\V2\SQUARE BASE\Project Outputs for nas-craftsman nixie BASE v1\ODB\odb\steps\pcb\layers\drill\attrlist
+
+Generated File : F:\NASIB\INGENIERIA\PROYECTOS\Nixie project\V2\SQUARE BASE\Project Outputs for nas-craftsman nixie BASE v1\ODB\odb\steps\pcb\layers\drill\tools
+
+Generated File : F:\NASIB\INGENIERIA\PROYECTOS\Nixie project\V2\SQUARE BASE\Project Outputs for nas-craftsman nixie BASE v1\ODB\odb\steps\pcb\layers\comp_+_bot\features
+
+Generated File : F:\NASIB\INGENIERIA\PROYECTOS\Nixie project\V2\SQUARE BASE\Project Outputs for nas-craftsman nixie BASE v1\ODB\odb\steps\pcb\layers\comp_+_bot\components
+
+Generated File : F:\NASIB\INGENIERIA\PROYECTOS\Nixie project\V2\SQUARE BASE\Project Outputs for nas-craftsman nixie BASE v1\ODB\odb\steps\pcb\layers\comp_+_top\features
+
+Generated File : F:\NASIB\INGENIERIA\PROYECTOS\Nixie project\V2\SQUARE BASE\Project Outputs for nas-craftsman nixie BASE v1\ODB\odb\steps\pcb\layers\comp_+_top\components
+
+Generated File : F:\NASIB\INGENIERIA\PROYECTOS\Nixie project\V2\SQUARE BASE\Project Outputs for nas-craftsman nixie BASE v1\ODB\odb\steps\pcb\eda\data
+
+Generated File : F:\NASIB\INGENIERIA\PROYECTOS\Nixie project\V2\SQUARE BASE\Project Outputs for nas-craftsman nixie BASE v1\ODB\odb\symbols\rect1899.99874x599.9988_135\features
+
+Generated File : F:\NASIB\INGENIERIA\PROYECTOS\Nixie project\V2\SQUARE BASE\Project Outputs for nas-craftsman nixie BASE v1\ODB\odb\symbols\rect1899.99874x599.9988_45\features
+
+Generated File : F:\NASIB\INGENIERIA\PROYECTOS\Nixie project\V2\SQUARE BASE\Project Outputs for nas-craftsman nixie BASE v1\ODB\odb\symbols\rect519.99896x559.99888_315\features
+
+Generated File : F:\NASIB\INGENIERIA\PROYECTOS\Nixie project\V2\SQUARE BASE\Project Outputs for nas-craftsman nixie BASE v1\ODB\odb\symbols\rect1899.99874x599.9988_225\features
+
+Generated File : F:\NASIB\INGENIERIA\PROYECTOS\Nixie project\V2\SQUARE BASE\Project Outputs for nas-craftsman nixie BASE v1\ODB\odb\symbols\rect1899.99874x599.9988_315\features
+
+Generated File : F:\NASIB\INGENIERIA\PROYECTOS\Nixie project\V2\SQUARE BASE\Project Outputs for nas-craftsman nixie BASE v1\ODB\odb\symbols\rect519.99896x559.99888_45\features
+
+Generated File : F:\NASIB\INGENIERIA\PROYECTOS\Nixie project\V2\SQUARE BASE\Project Outputs for nas-craftsman nixie BASE v1\ODB\odb\symbols\rect1950.00118x650.00124_135\features
+
+Generated File : F:\NASIB\INGENIERIA\PROYECTOS\Nixie project\V2\SQUARE BASE\Project Outputs for nas-craftsman nixie BASE v1\ODB\odb\symbols\rect1950.00118x650.00124_45\features
+
+Generated File : F:\NASIB\INGENIERIA\PROYECTOS\Nixie project\V2\SQUARE BASE\Project Outputs for nas-craftsman nixie BASE v1\ODB\odb\symbols\rect570.0014x610.00132_315\features
+
+Generated File : F:\NASIB\INGENIERIA\PROYECTOS\Nixie project\V2\SQUARE BASE\Project Outputs for nas-craftsman nixie BASE v1\ODB\odb\symbols\rect2099.99834x799.9984_135\features
+
+Generated File : F:\NASIB\INGENIERIA\PROYECTOS\Nixie project\V2\SQUARE BASE\Project Outputs for nas-craftsman nixie BASE v1\ODB\odb\symbols\rect2099.99834x799.9984_45\features
+
+Generated File : F:\NASIB\INGENIERIA\PROYECTOS\Nixie project\V2\SQUARE BASE\Project Outputs for nas-craftsman nixie BASE v1\ODB\odb\symbols\rect719.99856x759.99848_315\features
+
+Generated File : F:\NASIB\INGENIERIA\PROYECTOS\Nixie project\V2\SQUARE BASE\Project Outputs for nas-craftsman nixie BASE v1\ODB\odb\symbols\rect2099.99834x799.9984_225\features
+
+Generated File : F:\NASIB\INGENIERIA\PROYECTOS\Nixie project\V2\SQUARE BASE\Project Outputs for nas-craftsman nixie BASE v1\ODB\odb\symbols\rect2099.99834x799.9984_315\features
+
+Generated File : F:\NASIB\INGENIERIA\PROYECTOS\Nixie project\V2\SQUARE BASE\Project Outputs for nas-craftsman nixie BASE v1\ODB\odb\symbols\rect719.99856x759.99848_45\features
+
+Generated File : F:\NASIB\INGENIERIA\PROYECTOS\Nixie project\V2\SQUARE BASE\Project Outputs for nas-craftsman nixie BASE v1\ODB\odb\symbols\rect1950.00118x650.00124_225\features
+
+Generated File : F:\NASIB\INGENIERIA\PROYECTOS\Nixie project\V2\SQUARE BASE\Project Outputs for nas-craftsman nixie BASE v1\ODB\odb\symbols\rect1950.00118x650.00124_315\features
+
+Generated File : F:\NASIB\INGENIERIA\PROYECTOS\Nixie project\V2\SQUARE BASE\Project Outputs for nas-craftsman nixie BASE v1\ODB\odb\symbols\rect570.0014x610.00132_45\features
+
+Generated File : F:\NASIB\INGENIERIA\PROYECTOS\Nixie project\V2\SQUARE BASE\Project Outputs for nas-craftsman nixie BASE v1\ODB\odb\symbols\rect1899.99874x599.9988_225\features
+
+Generated File : F:\NASIB\INGENIERIA\PROYECTOS\Nixie project\V2\SQUARE BASE\Project Outputs for nas-craftsman nixie BASE v1\ODB\odb\symbols\rect1899.99874x599.9988_315\features
+
+Generated File : F:\NASIB\INGENIERIA\PROYECTOS\Nixie project\V2\SQUARE BASE\Project Outputs for nas-craftsman nixie BASE v1\ODB\odb\symbols\rect519.99896x559.99888_45\features
+
+Generated File : F:\NASIB\INGENIERIA\PROYECTOS\Nixie project\V2\SQUARE BASE\Project Outputs for nas-craftsman nixie BASE v1\ODB\odb\symbols\rect1899.99874x599.9988_135\features
+
+Generated File : F:\NASIB\INGENIERIA\PROYECTOS\Nixie project\V2\SQUARE BASE\Project Outputs for nas-craftsman nixie BASE v1\ODB\odb\symbols\rect1899.99874x599.9988_45\features
+
+Generated File : F:\NASIB\INGENIERIA\PROYECTOS\Nixie project\V2\SQUARE BASE\Project Outputs for nas-craftsman nixie BASE v1\ODB\odb\symbols\rect519.99896x559.99888_315\features
+

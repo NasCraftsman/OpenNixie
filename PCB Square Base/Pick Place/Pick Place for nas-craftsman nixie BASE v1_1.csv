@@ -1,0 +1,37 @@
+Altium Designer Pick and Place Locations
+F:\NASIB\INGENIERIA\PROYECTOS\Nixie project\V2\SQUARE BASE\Project Outputs for nas-craftsman nixie BASE v1\Pick Place\Pick Place for nas-craftsman nixie BASE v1_1.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       26/07/23
+Time:       13:09
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mm
+
+"Designator","Comment","Layer","Footprint","Center-X(mm)","Center-Y(mm)","Pad-X(mm)","Pad-Y(mm)","Rotation","Description"
+"N100","1N-_12A","TopLayer","1N-12A","460.2398mm","55.0707mm","456.2398mm","63.0707mm","0","Undefined or Miscellaneous"
+"U101","HV5222PG-G","BottomLayer","QFP80P1390X1390X235-44N","470.8650mm","39.2730mm","478.2896mm","37.5052mm","135","HV OD Outs Serial to Parallel Converter"
+"U100","HV5222PG-G","TopLayer","QFP80P1390X1390X235-44N","470.8651mm","39.2730mm","478.2897mm","41.0408mm","225","HV OD Outs Serial to Parallel Converter"
+"R106","150","TopLayer","RESC1005X40X25LL05T05","472.8211mm","62.9837mm","472.8211mm","62.5837mm","90","SMD 150 Ohms 62.5mW 0402 1%"
+"R105","150","TopLayer","RESC1005X40X25LL05T05","469.2588mm","62.9689mm","469.2588mm","62.5689mm","90","SMD 150 Ohms 62.5mW 0402 1%"
+"R104","200","TopLayer","RESC1005X40X25LL05T05","471.1116mm","62.9392mm","471.1116mm","62.5392mm","90","SMD 200 Ohms 62.5 mW 0402 1%"
+"Q102","T2N7002AK,LM","TopLayer","TBAT54CLM","464.8620mm","67.3530mm","465.8120mm","68.3530mm","180","MOSFET (N-Channel)"
+"Q101","T2N7002AK,LM","TopLayer","TBAT54CLM","477.1730mm","67.3530mm","478.1230mm","68.3530mm","180","MOSFET (N-Channel)"
+"Q100","T2N7002AK,LM","TopLayer","TBAT54CLM","471.0445mm","67.3530mm","471.9945mm","68.3530mm","180","MOSFET (N-Channel)"
+"LED103","IN-S66TFT5R5G5B","TopLayer","INS66TFT5R5G5B","460.2460mm","23.5960mm","459.6460mm","24.3210mm","360","LED"
+"LED102","IN-S66TFT5R5G5B","TopLayer","INS66TFT5R5G5B","481.5790mm","23.6044mm","480.9790mm","24.3294mm","360","LED"
+"LED101","IN-S66TFT5R5G5B","TopLayer","INS66TFT5R5G5B","481.5587mm","54.9820mm","480.9587mm","55.7070mm","360","LED"
+"LED100","IN-S66TFT5R5G5B","TopLayer","INS66TFT5R5G5B","460.2290mm","55.0261mm","459.6290mm","55.7511mm","360","LED"
+"C101","100nF","BottomLayer","CAPC1005X55X25LL5T10","467.1406mm","46.9662mm","466.8648mm","46.6904mm","45","CAP, MLCC, 0402/1005, 25V, X7R,"
+"C100","100nF","TopLayer","CAPC1005X55X25LL5T10","467.0096mm","31.5545mm","466.7338mm","31.8303mm","315","CAP, MLCC, 0402/1005, 25V, X7R,"
+"N103","1N-_12A","TopLayer","1N-12A","460.2398mm","23.6357mm","456.2398mm","31.6357mm","0","Undefined or Miscellaneous"
+"N102","1N-_12A","TopLayer","1N-12A","481.5908mm","23.6357mm","477.5908mm","31.6357mm","0","Undefined or Miscellaneous"
+"N101","1N-_12A","TopLayer","1N-12A","481.6009mm","55.0707mm","477.6009mm","63.0707mm","0","Undefined or Miscellaneous"
+"J101","TLE-105-01-G-DV-A","BottomLayer","TLE10501GDVA","470.8565mm","11.5580mm","474.8565mm","9.3330mm","180","Connector"
+"J100","TLE-105-01-G-DV-A","BottomLayer","TLE10501GDVA","470.8566mm","67.2970mm","466.8566mm","69.5220mm","0","Connector"
+"R100","15.8k","BottomLayer","RESC2013X70X40NL20T20","455.0608mm","65.9667mm","455.9358mm","65.9667mm","180","SMD 1/4W 15.8K OHM 1%"
+"R101","15.8k","BottomLayer","RESC2013X70X40NL20T20","486.8388mm","65.9667mm","485.9638mm","65.9667mm","360","SMD 1/4W 15.8K OHM 1%"
+"R102","15.8k","BottomLayer","RESC2013X70X40NL20T20","486.8388mm","34.9717mm","485.9638mm","34.9717mm","360","SMD 1/4W 15.8K OHM 1%"
+"R103","15.8k","BottomLayer","RESC2013X70X40NL20T20","455.0608mm","34.9717mm","455.9358mm","34.9717mm","180","SMD 1/4W 15.8K OHM 1%"

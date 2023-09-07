@@ -1,0 +1,17 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: nas-craftsman nixie BASE v1_1.PcbDoc   26/07/2023  13:09:26
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : nas-craftsman nixie BASE v1_1.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.25mm (10mil)                                            Round             67        PTH        0.00mm (0.00inch)
+T2      0.4mm (16mil)                                             Round             1         PTH        0.00mm (0.00inch)
+T3      1.03mm (41mil)                                            Round             48        PTH        0.00mm (0.00inch)
+T4      0.76mm (30mil)                                            Round             4         NPTH       0.00mm (0.00inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              120
+
+Total Processing Time (hh:mm:ss) : 00:00:00

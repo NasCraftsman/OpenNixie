@@ -1,0 +1,87 @@
+Altium Designer Pick and Place Locations
+F:\NASIB\INGENIERIA\PROYECTOS\Nixie project\V2\CONTROLLER\Project Outputs for nas-craftsman nixie v1\Pick Place\Pick Place for nas-craftsman nixie v1.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       26/07/23
+Time:       13:03
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mm
+
+Designator Comment              Layer       Footprint                     Center-X(mm) Center-Y(mm) Pad-X(mm)  Pad-Y(mm) Rotation Description                                                               
+C213       1uF                  TopLayer    CAPC4632X220N                 436.8536mm   28.2175mm    434.7336mm 28.2175mm 360      "1812 MLCC X7R 1 uF, +/- 10% 200 V T&R GP"                                
+C212       1uF                  TopLayer    CAPC4632X220N                 436.8662mm   24.3886mm    434.7462mm 24.3886mm 360      "1812 MLCC X7R 1 uF, +/- 10% 200 V T&R GP"                                
+L200       NR8040T100M          TopLayer    NR8040T220M                   420.0600mm   17.1671mm    417.2600mm 17.1671mm 0        "8040 10uH 44.2mOhms +/-20% 3.1A"                                         
+J101       TMM-105-01-T-D-SM-TR BottomLayer TMM10501TDSMTR                430.5630mm   6.5046mm     434.5630mm 4.3696mm  180      Connector                                                                 
+R313       100                  BottomLayer RESC1005X40X25LL05T05         431.4173mm   51.4540mm    431.4173mm 51.0540mm 90       "SMD 100 Ohms 62.5mW 0402 1%"                                             
+R312       100                  BottomLayer RESC1005X40X25LL05T05         432.7464mm   51.4540mm    432.7464mm 51.0540mm 90       "SMD 100 Ohms 62.5mW 0402 1%"                                             
+R311       100                  BottomLayer RESC1005X40X25LL05T05         439.6058mm   51.4344mm    439.6058mm 51.0344mm 90       "SMD 100 Ohms 62.5mW 0402 1%"                                             
+C211       100nF                TopLayer    FP-C1206C-EB-MFG              437.4980mm   21.3811mm    438.8980mm 21.3811mm 180      "Cap Ceramic 100nF 250V X7R ±10% SMD 1206 +125°C Embossed T/R"            
+FB101      Value                TopLayer    BEADC1608X95N                 429.3185mm   18.4840mm    429.3185mm 17.6840mm 90       "Ferrite Bead, 2A @ 100MHz, 120ohms 25%"                                  
+FB100      Value                TopLayer    BEADC1608X95N                 434.0813mm   18.4840mm    434.0813mm 17.6840mm 90       "Ferrite Bead, 2A @ 100MHz, 120ohms 25%"                                  
+S303       TL3301BF160QJ        TopLayer    TL3301BF160QJ                 430.6950mm   55.3718mm    428.4450mm 57.7798mm 270      Switch                                                                    
+S302       TL3301BF160QJ        TopLayer    TL3301BF160QJ                 422.0957mm   55.3358mm    419.8457mm 57.7438mm 270      Switch                                                                    
+R308       10k                  BottomLayer RESC1005X40X25LL05T05         418.7752mm   51.4540mm    418.7752mm 51.8540mm 270      "SMD 10 kOhms 62.5mW 0402 1%"                                             
+C307       100nF                BottomLayer CAPC1005X55X25LL5T10          420.0350mm   51.4540mm    420.0350mm 51.8440mm 270      "CAP, MLCC, 0402/1005, 25V, X7R,"                                         
+J100       USB4120-03-C_REVA    TopLayer    GCT_USB4120-03-C              430.5630mm   13.9605mm    427.8130mm 14.8255mm 0        ""                                                                        
+U302       CP2102N-A02-GQFN24R  BottomLayer QFN50P400X400X100-25N-D       436.9808mm   53.9527mm    435.0308mm 52.7027mm 360      "USB to UART Bridge QFN24"                                                
+U300       ESP32-WROVER-IE      BottomLayer FP-ESP32-WROVER-IE_M213EH-MFG 427.6801mm   41.1049mm    439.1101mm 32.3549mm 90       "RX TXRX MOD WIFI EXT IPEX SMD"                                           
+U303       CD4504BM96           BottomLayer SOIC127P600X175-16N           420.5809mm   56.1496mm    425.0259mm 53.4376mm 90       "CMOS Quad Lo-to-Hi Vltg Level Shifter"                                   
+R310       4k7                  BottomLayer RESC1005X40X25LL05T05         430.2397mm   51.4540mm    430.2397mm 51.0540mm 90       "SMD 4.7 kOhms 62.5mW 0402 5%"                                            
+R309       4k7                  BottomLayer RESC1005X40X25LL05T05         428.9570mm   51.4540mm    428.9570mm 51.0540mm 90       "SMD 4.7 kOhms 62.5mW 0402 5%"                                            
+C309       100nF                BottomLayer CAPC1005X55X25LL5T10          424.6407mm   60.2570mm    424.2507mm 60.2570mm 360      "CAP, MLCC, 0402/1005, 25V, X7R,"                                         
+C308       100nF                BottomLayer CAPC1005X55X25LL5T10          425.0440mm   51.4540mm    425.0440mm 51.0640mm 90       "CAP, MLCC, 0402/1005, 25V, X7R,"                                         
+C208       100nF                TopLayer    CAPC1005X55X25LL5T10          432.6264mm   22.3133mm    432.6264mm 22.7033mm 270      "CAP, MLCC, 0402/1005, 25V, X7R,"                                         
+VC         TEST_PAD1.0round     TopLayer    TestPoint                     434.5112mm   62.0840mm    434.5112mm 62.0840mm 0        "Test Point Leesys Specs"                                                 
+U301       MC3479               BottomLayer MC3479                        429.4278mm   54.3261mm    430.1903mm 55.0766mm 180      "Integrated Circuit"                                                      
+U202       MAX1771CSA+          TopLayer    SOIC127P600X175-8N            428.3741mm   23.7743mm    425.6741mm 25.6794mm 360      "Integrated Circuit"                                                      
+U201       LM2731XMF_NOPB       TopLayer    SOT95P280X145-5N              422.4035mm   10.7968mm    421.1535mm 11.7469mm 360      "1.5A 1.6MHZ BOOST CONVERTER"                                             
+U200       XC6210B332MR-G       BottomLayer SOT95P280X120-5N              436.9437mm   27.5803mm    437.8937mm 26.1803mm 90       "700mA High Speed LDO Regulator"                                          
+TX         TEST_PAD1.0round     TopLayer    TestPoint                     431.9712mm   62.0840mm    431.9712mm 62.0840mm 0        "Test Point Leesys Specs"                                                 
+S300       TL3301BF160QJ        TopLayer    TL3301BF160QJ                 439.2299mm   55.3365mm    436.9799mm 57.7445mm 270      Switch                                                                    
+RX         TEST_PAD1.0round     TopLayer    TestPoint                     429.4312mm   62.0840mm    429.4312mm 62.0840mm 0        "Test Point Leesys Specs"                                                 
+R307       10k                  BottomLayer RESC1005X40X25LL05T05         422.6670mm   51.4540mm    422.6670mm 51.8540mm 270      "SMD 10 kOhms 62.5mW 0402 1%"                                             
+R306       47.5k                BottomLayer RESC1005X40X25LL05T05         436.3074mm   57.3325mm    436.3074mm 56.9325mm 90       "SMD 47.5 kOhms 62.5mW 0402 1%"                                           
+R305       22.1k                BottomLayer RESC1005X40X25LL05T05         435.4652mm   57.3325mm    435.4652mm 57.7325mm 270      "SMD 22.1kOhms 1/16W 0402 1%"                                             
+R304       1k                   BottomLayer RESC1005X40X25LL05T05         437.1757mm   57.3325mm    437.1757mm 57.7325mm 270      "SMD 1 kOhms 62.5mW 0402 5%"                                              
+R303       270                  TopLayer    RESC1005X40X25LL05T05         419.9272mm   62.6564mm    419.9272mm 62.2564mm 90       "RES SMD 270OHM 5% 1/16W 0402"                                            
+R302       270                  TopLayer    RESC1005X40X25LL05T05         422.6616mm   62.6157mm    422.6616mm 62.2157mm 90       "RES SMD 270OHM 5% 1/16W 0402"                                            
+R301       1M                   BottomLayer RESC1005X40X25LL05T05         426.9354mm   55.1647mm    426.9354mm 55.5647mm 270      "SMD 1 MOhms 62.5mW 0402 5%"                                              
+R300       10k                  BottomLayer RESC1005X40X25LL05T05         436.5624mm   30.6460mm    436.5624mm 30.2460mm 90       "SMD 10 kOhms 62.5mW 0402 1%"                                             
+R206       13.3k                TopLayer    RESC1609X50X30NL8T20          436.0780mm   14.6755mm    436.0780mm 14.0255mm 90       "SMD 13.3 kOhms 125 mW 0805 1%"                                           
+R205       1.5M                 TopLayer    RESC3216X60X45ML10T20         437.5359mm   17.3373mm    435.9859mm 17.3373mm 360      "SMD 1.5 MOhms 250 mW 1206 1%"                                            
+R204       50m                  TopLayer    RESC1609X50X30NL8T20          432.5232mm   24.9642mm    432.5232mm 24.3142mm 90       "SMD 0.05 ohm 0603 1% 0.20W"                                              
+R203       100k                 TopLayer    RESC1005X40X25LL05T05         424.3870mm   22.3548mm    424.3870mm 21.9548mm 90       "SMD 100kOhms 1/16W 0402 5%"                                              
+R202       100k                 TopLayer    RESC1005X40X25LL05T05         424.9177mm   10.2152mm    424.9177mm 10.6152mm 270      "SMD 100kOhms 1/16W 0402 5%"                                              
+R201       13.3k                TopLayer    RESC1005X40X25LL05T05         421.0827mm   8.6757mm     421.4827mm 8.6757mm  180      "SMD 13.3 kOhms 62.5mW 0402 1%"                                           
+R200       118k                 TopLayer    RESC1005X40X25LL05T05         419.3807mm   9.5749mm     419.7807mm 9.5749mm  180      "SMD 118 kOhms 62.5mW 0402 1%"                                            
+Q200       SQD07N25-350H_GE3    TopLayer    TO-252AA                      429.4778mm   31.3434mm    427.1918mm 28.1259mm 360      "MOSFET N-Channel 250V AEC-Q101 Qualified"                                
+L201       SRP7050WA-101M       TopLayer    INDPM7973X540N                420.0597mm   33.8241mm    417.0097mm 33.8241mm 360      "100uH+/-20%, 2.2A 357mOhms"                                              
+J102       TMM-105-01-T-D-SM-TR BottomLayer TMM10501TDSMTR                430.5630mm   62.2440mm    426.5630mm 64.3790mm 360      Connector                                                                 
+GN         TEST_PAD1.0round     TopLayer    TestPoint                     437.0512mm   62.0840mm    437.0512mm 62.0840mm 0        "Test Point Leesys Specs"                                                 
+EN         TEST_PAD1.0round     TopLayer    TestPoint                     424.3516mm   62.0840mm    424.3516mm 62.0840mm 0        "Test Point Leesys Specs"                                                 
+D201       SS320-HF             TopLayer    DIOM5025X220N                 436.7932mm   36.7196mm    438.7932mm 36.7196mm 180      "Schottky 200V 3A"                                                        
+D200       RBS2LAM40CTR         TopLayer    SODFL4725X105N                417.5794mm   11.3875mm    415.5044mm 11.3875mm 360      "Super low VF Schottkey Barrier Diode for General rectification 2A 320mV" 
+D100       PRTR5V0U2X           TopLayer    PRTR5V0U2X                    431.6660mm   18.5683mm    432.6660mm 17.8183mm 90       Diode                                                                     
+D4         HSMF-C165            TopLayer    FP-HSMF-C165-MFG              421.3431mm   62.3704mm    420.9931mm 61.7204mm 90       "LED GREEN/RED DIFFUSED 0603 SMD"                                         
+C306       100nF                BottomLayer CAPC1005X55X25LL5T10          421.3450mm   51.4540mm    421.3450mm 51.8440mm 270      "CAP, MLCC, 0402/1005, 25V, X7R,"                                         
+C305       4.7uF                BottomLayer CAPC1005X55X25LL5T10          433.4486mm   55.8080mm    433.0586mm 55.8080mm 360      "4.7uF 10V 20% 0402 X5R"                                                  
+C304       100nF                BottomLayer CAPC1005X55X25LL5T10          433.4486mm   54.9920mm    433.0586mm 54.9920mm 360      "CAP, MLCC, 0402/1005, 25V, X7R,"                                         
+C303       100nF                BottomLayer CAPC1005X55X25LL5T10          427.6876mm   54.4086mm    427.6876mm 54.7986mm 270      "CAP, MLCC, 0402/1005, 25V, X7R,"                                         
+C302       100nF                BottomLayer CAPC1005X55X25LL5T10          435.2847mm   30.6460mm    435.2847mm 30.2560mm 90       "CAP, MLCC, 0402/1005, 25V, X7R,"                                         
+C301       22uF                 BottomLayer CAPC1005X55X25LL5T10          438.6745mm   30.9615mm    439.0645mm 30.9615mm 180      "22 uF 10 VDC 20% 0402 X5R"                                               
+C300       100nF                BottomLayer CAPC1005X55X25LL5T10          438.6602mm   30.0958mm    439.0502mm 30.0958mm 180      "CAP, MLCC, 0402/1005, 25V, X7R,"                                         
+C210       100pF                TopLayer    FP-C1206C-EB-MFG              437.4727mm   19.3339mm    438.8727mm 19.3339mm 180      "100 pF 500 VDC 5% 1206 C0G (NP0)"                                        
+C209       1uF                  TopLayer    CAPC4632X220N                 436.8785mm   32.1346mm    434.7585mm 32.1346mm 360      "1812 MLCC X7R 1 uF, +/- 10% 200 V T&R GP"                                
+C207       100nF                TopLayer    CAPC1005X55X25LL5T10          424.3870mm   24.5399mm    424.3870mm 24.9299mm 270      "CAP, MLCC, 0402/1005, 25V, X7R,"                                         
+C206       68uF                 TopLayer    CAPAE660X550N                 419.7436mm   25.6183mm    417.1936mm 25.6183mm 360      "SMD WCAP-ASLI 68uF 25V 20% SMD/SMT"                                      
+C205       4.7uF                TopLayer    CAPC1005X55X25LL5T10          424.9384mm   11.5944mm    424.9384mm 11.2044mm 90       "4.7uF 10V 20% 0402 X5R"                                                  
+C204       270pF                TopLayer    CAPC1005X55X25LL5T10          419.3807mm   8.6757mm     419.7707mm 8.6757mm  180      "270 pF 25 VDC 5% 0402 C0G (NP0)"                                         
+C203       10uF                 TopLayer    CAPC1608X90N                  416.3573mm   9.3984mm     415.6573mm 9.3984mm  360      "10 uF 25 VDC 10% 0603 X5R"                                               
+C201       1uF                  BottomLayer CAPC1005X55X25LL5T10          438.9741mm   28.7272mm    438.9741mm 29.1172mm 270      "1.0uF 16V 10% 0402 X5R"                                                  
+C200       1uF                  BottomLayer CAPC1005X55X25LL5T10          438.9896mm   26.3869mm    438.9896mm 25.9969mm 90       "1.0uF 16V 10% 0402 X5R"                                                  
+C101       10nF                 TopLayer    CAPC1005X55X25LL5T10          427.7720mm   17.5616mm    427.3820mm 17.5616mm 360      "0.01 uF 16 VDC 20% 0402 X7R"                                             
+C100       100nF                TopLayer    CAPC1005X55X25LL5T10          427.7720mm   18.5099mm    428.1620mm 18.5099mm 180      "CAP, MLCC, 0402/1005, 25V, X7R,"                                         
+BT         TEST_PAD1.0round     TopLayer    TestPoint                     426.8912mm   62.0840mm    426.8912mm 62.0840mm 90       "Test Point Leesys Specs"                                                 
