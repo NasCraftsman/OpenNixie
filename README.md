@@ -3,12 +3,11 @@
 <img src="Docs/_DSC1764.JPG" width="400px"></a>
 <img src="Docs/_DSC1766.JPG" width="400px"></a>
 
-The Picoclick C3 as well as its little brother (the C3T, T = tiny) are the successors of the well known [Picoclick](https://github.com/makermoekoe/Picoclick). The name is related to its new processor: the [ESP32-C3](https://www.espressif.com/sites/default/files/documentation/esp32-c3_datasheet_en.pdf) single core RISC-V 160MHz CPU.
+OpenNixie was born with the aim of creating an open project development platform around all types of Nixie Tubes. A platform that condenses the future with the past. IoT technology with plasma tubes in a miniature and modular design.
 
-The Picoclick is a tiny WiFi and BLE IoT button for several applications. Originally designed for smart home things, the Picoclick can also be used as an actuator for IFTTT automations or as an MQTT device. It is based on the single core ESP32-C3 RISC-V processor and therefore comes with tons of useful features.
-With dimensions of only 10.5mm by 18mm, the C3T is not only the smallest one in the family of the Picoclicks, it is also the smallest device I have created so far.
+OpenNixie is a BLE and Wifi platform for different applications. It was originally designed as a watch with an Internet connection, but later became a universal platform with many applications.
 
-The [Youtube video of the C3T](https://www.youtube.com/watch?v=t-50w3RsUlg) shows the assembly and soldering process, the optimization of the boot up time, the power measurements as well as some useful applications of the Picoclick.
+After a while
 
 Here are some specs of the Picoclick C3T:
 - Dimensions are only 10.5x18mm
@@ -16,9 +15,7 @@ Here are some specs of the Picoclick C3T:
 - Single button & LED interface (WS2812 RGB LED)
 - USB Type-C for charging the battery and flashing the ESP32-C3
 
-<img src="Docs/Nixie_Gif_Animation.gif" width="400px" class="center"></a>
-
-
+<img src="Docs/Nixie_Gif_Animation.gif" width="400px"></a>
 <a href="https://www.tindie.com/stores/makermoekoe/?ref=offsite_badges&utm_source=sellers_makermoekoe&utm_medium=badges&utm_campaign=badge_large"><img src="https://d2ss6ovg47m0r5.cloudfront.net/badges/tindie-larges.png" alt="I sell on Tindie" width="200" height="104"></a>
 
 ## Multi Board Architecture 
