@@ -18,7 +18,7 @@ Some of the features that the OpenNixie platform includes are:
 - 1 general pourpose button for control the platform
   
 
-<a href="https://www.pcbway.com/project/shareproject/Open_IoT_Nixie_Platform_9b133654.html"><img src="https://www.pcbway.com/project/img/images/frompcbway-1220.png" alt="PCB from PCBWay" /></a>
+<a href="https://www.pcbway.com/project/shareproject/Open_IoT_Nixie_Platform_9b133654.html" target="_blank"><img src="https://www.pcbway.com/project/img/images/frompcbway-1220.png" alt="PCB from PCBWay" /></a>
 
 ## Multi Board Architecture
  
@@ -66,6 +66,6 @@ EN 12V | GPIO33 | Output
 
 ## Media
 
-<a href="https://www.instagram.com/nas.craftsman/"><img src="Docs/IG.png" width="80px"></a>
-<a href="https://www.linkedin.com/in/nasib-fahim-fernandez"><img src="Docs/LIN.png" width="80px"></a>
+<a href="https://www.instagram.com/nas.craftsman/" target="_blank"><img src="Docs/IG.png" width="80px"></a>
+<a href="https://www.linkedin.com/in/nasib-fahim-fernandez" target="_blank"><img src="Docs/LIN.png" width="80px"></a>
 
