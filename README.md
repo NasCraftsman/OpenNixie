@@ -1,7 +1,7 @@
 # OpenNixie 
 
-<img src="Docs/_DSC1764.jpg" width="300px"></a>
-<img src="Docs/_DSC1766.JPG" width="350px"></a>
+<img src="Docs/_DSC1764.jpg" width="50%"></a>
+<img src="Docs/_DSC1766.jpg" width="50%"></a>
 
 The Picoclick C3 as well as its little brother (the C3T, T = tiny) are the successors of the well known [Picoclick](https://github.com/makermoekoe/Picoclick). The name is related to its new processor: the [ESP32-C3](https://www.espressif.com/sites/default/files/documentation/esp32-c3_datasheet_en.pdf) single core RISC-V 160MHz CPU.
 
@@ -39,8 +39,8 @@ Bat Voltage EN | -- | GPIO3 | Output
 
 ## Board overview C3T (Battery connections)
 
-<img src="docs/Controller_diagram_bottom.JPG" width="500px"></a>
-<img src="docs/Controller_diagram_front.JPG" width="500px"></a>
+<img src="Docs/Controller_diagram_bottom.jpg" width="500px"></a>
+<img src="Docs/Controller_diagram_front.jpg" width="500px"></a>
 
 ## Flashing firmware to the ESP32 (C3T)
 
