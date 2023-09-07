@@ -24,7 +24,7 @@ Some of the features that the OpenNixie platform includes are:
  
 OpenNixie has been designed as a modular platform. This means that the control PCB can be connected to any PCB with Nixie tubes, so the applications are unlimited. At the moment the V2 version has been tested with a base for 4 1N-12A Nixies with RGB LEDs and SPI expansion.
 
-<img src="Docs/_DSC1774.JPG" width="300px"></a>
+<img src="Docs/_DSC1774.JPG" width="250px"></a>
 <img src="Docs/_DSC1775.JPG" width="300px"></a>
 
 ## Warning
@@ -64,8 +64,8 @@ EN 12V | GPIO33 | Output
 **- Press and hold BOOT button while press and release EN button, then release BOOT button to enter in BOOT mode**
 **- You can use the USB-C directly to programm the device**
 
-# FAQ
-
 ## Media
 
+<a href="https://www.instagram.com/nas.craftsman/"><img src="Docs/IG" width="50px"></a>
+<a href="www.linkedin.com/in/nasib-fahim-fernandez"><img src="Docs/LIN" width="50px"></a>
 
