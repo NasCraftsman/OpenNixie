@@ -54,12 +54,12 @@ EN 12V | GPIO33 | Output
 * To activate the Nixie tubes, the ignition sequence should be: EN12-ON EN170-OFF LE-ON
 * To deactivate Nixie tubes, the shutdown sequence should be: LE-OFF EN170-ON EN12-OFF
 
-## Board overview C3T (Battery connections)
+## Control board overview 
 
 <img src="Docs/Controller_diagram_bottom.JPG" width="320px"></a>
 <img src="Docs/Controller_diagram_front.JPG" width="350px"></a>
 
-## Flashing firmware to the ESP32 
+## Flashing firmware 
 
 - Press and hold BOOT button while press and release EN button, then release BOOT button to enter in BOOT mode
 - You can use the USB-C directly to programm the device
