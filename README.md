@@ -16,6 +16,7 @@ Some of the features that the OpenNixie platform includes are:
 - USB Type-C for power and programming
 - 4 1N-12A + RGB lights as a default Nixie extension board 
 - 1 general pourpose button for control the platform
+- An internal accelerometer to interact with the display
   
 
 <a href="https://www.pcbway.com/project/shareproject/Open_IoT_Nixie_Platform_9b133654.html" target="_blank"><img src="https://www.pcbway.com/project/img/images/frompcbway-1220.png" alt="PCB from PCBWay" /></a>
